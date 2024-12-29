@@ -5,5 +5,6 @@ public class SumCalculator {
         int sum = num1 + num2; // Calculate the sum
 
         System.out.println("The sum of " + num1 + " and " + num2 + " is: " + sum);
+          System.out.println("The sum of " + num1 + " and " + num2 + " is: " + sum);
     }
 }
